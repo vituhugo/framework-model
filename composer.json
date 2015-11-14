@@ -1,0 +1,14 @@
+{
+  "name": "apis3/framework/model",
+  "type": "library",
+  "description": "Apis3 - Plugin - Padraorespect",
+  "require": {
+    "php": ">=5.5",
+    "apis3/framework"
+  },
+  "autoload": {
+    "classmap": [
+      "model.php"
+    ]
+  }
+}
